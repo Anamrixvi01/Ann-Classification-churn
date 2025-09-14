@@ -40,3 +40,5 @@ Results printed with best score and parameters
 Best Accuracy: e.g., 86.4%
 Best Parameters: {'neurons': 64, 'layers': 2, 'epochs': 100}
 Model generalizes well on unseen test data
+## 💼 About Me
+I'm ANUM — a math graduate transitioning into AI engineering. I specialize in neural networks, deployment, and creative branding. This project reflects my ability to blend technical rigor with practical implementation.
